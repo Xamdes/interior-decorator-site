@@ -1,6 +1,7 @@
 body {
   text-align: center;
   background-color: lightcyan;
+  color: white;
 }
 
 .column {
@@ -12,4 +13,25 @@ body {
   float: left;
   height: auto;
   width: 12em;
+}
+
+.before {
+  margin: 1em;
+  border: .2em;
+  padding: .3em;
+  background-color: green;
+}
+
+.during {
+  margin: 1em;
+  border: .2em;
+  padding: .3em;
+  background-color: navy;  
+}
+
+.after {
+  margin: 1em;
+  border: .2em;
+  padding: .3em;
+  background-color: red;
 }
