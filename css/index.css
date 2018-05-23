@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background-color: lightcyan;
+}
+
+.column {
+  width: 19em;
+  float: left;
+}
+
+.img_left {
+  float: left;
+  height: auto;
+  width: 12em;
+}
