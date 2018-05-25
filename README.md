@@ -12,7 +12,7 @@ Created an Interior Decorator site to practice using floats and making columns.
 
 HTML, CSS, Floats, Divs, Spans
 
-##installation
+## Installation
 Clone from https://github.com/xamdes/interior-decorator-site.git
 or https://github.com/bscott9592/interior_decorator_site.git
 
